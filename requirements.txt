@@ -1,0 +1,9 @@
+torch==2.6.0
+torchvision
+ftfy
+transformers
+accelerate
+sentencepiece
+pandas
+bs4
+pyyaml
