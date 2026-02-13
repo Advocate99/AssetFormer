@@ -1,6 +1,6 @@
 # AssetFormer: Modular 3D Assets Generation with Autoregressive Transformer (ICLR 2026)
 
-This is the official code for [**AssetFormer: Modular 3D Assets Generation with Autoregressive Transformer**](https://arxiv.org/abs/2602.xxxxx).
+This is the official code for [**AssetFormer: Modular 3D Assets Generation with Autoregressive Transformer**](https://arxiv.org/abs/2602.12100).
 
 ## Abstract
 
@@ -45,7 +45,7 @@ If you find our work useful, please kindly cite as:
 @article{zhu2026assetformer,
   title={AssetFormer: Modular 3D Assets Generation with Autoregressive Transformer},
   author={Zhu, Lingting and Qian, Shengju and Fan, Haidi and Dong, Jiayu and Jin, Zhenchao and Zhou, Siwei and Dong, Gen and Wang, Xin and Yu, Lequan},
-  journal={arXiv preprint arXiv:2602.xxxxx},
+  journal={arXiv preprint arXiv:2602.12100},
   year={2026}
 }
 ```
